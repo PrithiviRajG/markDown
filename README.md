@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
+This is created with the markdown plugin provided by https://github.com/dimpu/angular2-markdown
+
+This sample app is just using the plugin to check the mark down feature in Angular 4.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
