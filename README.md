@@ -6,6 +6,8 @@ This is created with the markdown plugin provided by https://github.com/dimpu/an
 
 This sample app is just using the plugin to check the mark down feature in Angular 4.
 
+check the sample here https://prithivirajg.github.io/markDown/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
